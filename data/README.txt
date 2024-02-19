@@ -9,6 +9,7 @@ In columns, Major threat categories names start with a capital letter; threat su
 2) Trophic data 
 - 2022_obligate_cooccur_BARM_Adult.RData contains the filtered version of the metaweb with only typical (obligate) interactions, on the adult lifestage of the prey, and between cooccurring species only.  
 - SBMgroups_species.RData contains a table specifying the membership of each species to each trophic group. 
+- species_codes_and_taxonomy is the raw data from Maiorano et al., 2020 detailing species taxonomy and correspondance with their code, used throughout the analysis. 
 
 3) Spatial Data 
 the folder RasterOUT contains tif files that represent the spatial vulnerability of food webs across Europe to different threats. 
